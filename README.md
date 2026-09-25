@@ -40,3 +40,4 @@ RFID Based Smart Bus Access & Fare System
 ​Smart Cities: Rapid transit systems and automated public transportation prototypes.
 ​8. Conclusion
 ​The RFID Based Smart Bus system establishes an efficient, low-cost prototype for next-generation automated public transit. By consolidating identity authentication, balance deduction, and physical access control into a unified embedded framework, it provides a safe, transparent, and passenger-friendly alternative to manual fare handling.  
+![Project image](image.jpg)
